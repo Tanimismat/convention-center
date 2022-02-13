@@ -1,0 +1,46 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.fa-check-circle{
+    color: #a6a5a8;
+}
+.button-bg{
+    background-color: #eae8ff;
+}
+.custome-border{
+    border-radius: 25px;
+    width: 280px;
+    height: 480px;
+}
+.wedding-badge{
+    left:75%;
+}
+.footer{
+    background-color: #0b0d17;
+}
+.footer p, h5{
+    color: #D9DBE1;
+}
+.fa-chevron-circle-right{
+    color: #a6a5a8;
+    
+}
+.font-color{
+    color: #92979c;
+}
+
+.accordian-border{
+    border-radius: 2px;
+    margin-bottom: 10px;
+    border: 2px solid lightgrey;
+}
+.border-top{
+    border-top: 2px solid lightgrey;
+}
+@media only screen and (max-width:768px){
+    .carousel-btn{
+        width:90px !important;
+        font-size: 8px;
+        padding: 0;
+    }
+}
